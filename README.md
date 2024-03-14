@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">I'm a passionate Python and data analysis enthusiast eager to learn and explore new concepts. With a keen interest in cloud computing, artificial intelligence, and machine learning, I'm dedicated to expanding my knowledge and skills in the dynamic field of technology.</h3>
+<h3 align="left">I'm a passionate Python and Data Visualization enthusiast eager to learn and explore new concepts. With a keen interest in cloud computing, artificial intelligence, and machine learning, I'm dedicated to expanding my knowledge and skills in the dynamic field of technology.</h3>
 
 ###
 
