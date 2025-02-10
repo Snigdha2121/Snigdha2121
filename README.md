@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey, I'm <b>Snigdha Gupta!</b> 👋</h1>
+<h1 align="center">Hey, I'm <b>Snigdha Gupta!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <h3 align="center">💡 Python Enthusiast | Data Visualization | AI & ML Learner</h3>
 <p align="center">📍 <i>India</i></p>
